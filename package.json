@@ -1,0 +1,25 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "used to jot down notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steven-sosebee/note-taker.git"
+  },
+  "author": "steven sosebee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steven-sosebee/note-taker/issues"
+  },
+  "homepage": "https://github.com/steven-sosebee/note-taker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.2",
+    "uuid": "^8.3.2"
+  }
+}
