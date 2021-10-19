@@ -1,12 +1,17 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text",
-        "ID":"ID"
+        "title": "Deploy to Heroku",
+        "text": "Make sure that the app is deployed to Heroku",
+        "id": "8926c479-8b43-4ebf-b0ff-374f7af4949c"
     },
     {
-        "title":"Test Title",
-        "text":"Test text",
-        "ID":"ID2"
+        "title": "Submit to GitHub",
+        "text": "Ensure that the app is deployed to GitHub repo",
+        "id": "e03d4262-cdd3-451a-8f23-a65933bf00f3"
+    },
+    {
+        "title": "Submit homework link",
+        "text": "Make sure to submit URL for grading.",
+        "id": "8c72820d-02a6-4c06-aa73-189d6dc0874a"
     }
 ]
