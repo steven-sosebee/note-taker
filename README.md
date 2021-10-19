@@ -11,8 +11,9 @@ This application will allow users to take quick notes for later reference.
 
 Users will be able to track their to-do lists and quickly update on the fly.
 
-![Deployed version](https://sws-note-taker.herokuapp.com/)
-![Demo video](https://drive.google.com/file/d/1yWUgeCN4MimMDHg3dmL_UkdyVTzqKYui/view)
+[Deployed version](https://sws-note-taker.herokuapp.com/)
+
+[Demo video](https://drive.google.com/file/d/1yWUgeCN4MimMDHg3dmL_UkdyVTzqKYui/view)
 
 ## Table of Contents
 1. [Installation](#installation)
